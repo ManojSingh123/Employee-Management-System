@@ -1,0 +1,11 @@
+
+**/bin/
+**/obj/
+**/.vs/
+**/node_modules/
+**/dist/
+**/.angular/
+**/coverage/
+project credentials.txt
+**/.env
+**/.env.*
