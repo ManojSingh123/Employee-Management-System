@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\controllers\\employeedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\controllers\\employeedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\helper\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|d:\\mini project employee management system\\ems_miniproject\\ems_miniproject\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C662EA8-C32A-47B9-80EC-AF2664CAA1E6}|EMS_MiniProject\\EMS_MiniProject.csproj|solutionrelative:ems_miniproject\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:43:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Models\\Role.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Models\\Role.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:05:51.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Models\\User.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Models\\User.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:45:59.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDashboardController.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Controllers\\EmployeeDashboardController.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Controllers\\EmployeeDashboardController.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Controllers\\EmployeeDashboardController.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Controllers\\EmployeeDashboardController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAIBBwJoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:57:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Services\\AuthService.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T11:18:01.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Services\\IAuthService.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T15:10:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\DataContext\\AppDbContext.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "EMS_MiniProject\\DataContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:24:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Models\\Employee.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T07:23:49.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\appsettings.json",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\appsettings.json",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\appsettings.json",
+              "RelativeToolTip": "EMS_MiniProject\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAzwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-27T06:22:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Program.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Program.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAA2wIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:43:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Helper\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Helper\\JwtHelper.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Helper\\JwtHelper.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Helper\\JwtHelper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:43:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:38:29.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "EMS_MiniProject\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:09:04.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:24:51.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T08:24:20.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:48:23.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "EMS_MiniProject\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "D:\\Mini Project Employee Management System\\EMS_MiniProject\\EMS_MiniProject\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "EMS_MiniProject\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:57:14.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
