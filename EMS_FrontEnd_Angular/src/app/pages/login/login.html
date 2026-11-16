@@ -1,0 +1,51 @@
+<div class="login-wrapper">
+  <div class="login-card">
+
+    <h2 class="title">Employee Management System</h2>
+    <p class="subtitle">Please login to continue</p>
+
+    <form #loginForm="ngForm" (ngSubmit)="onLogin(loginForm)">
+
+      <!-- Username Field -->
+      <div class="form-group">
+        <input 
+          type="text" 
+          name="username"
+          placeholder="Username"
+          [(ngModel)]="loginData.username"
+          required
+          #username="ngModel"
+        >
+        <div class="validation-error" *ngIf="username.invalid && username.touched">
+          Username is required
+        </div>
+      </div>
+
+      <!-- Password Field -->
+      <div class="form-group">
+        <input 
+          type="password" 
+          name="password"
+          placeholder="Password"
+          [(ngModel)]="loginData.password"
+          required
+          #password="ngModel"
+        >
+        <div class="validation-error" *ngIf="password.invalid && password.touched">
+          Password is required
+        </div>
+      </div>
+
+      <!-- Login Button -->
+      <button class="login-btn" type="submit" [disabled]="loginForm.invalid">
+        Login
+      </button>
+
+      <!-- Error Message -->
+      <p class="error-message" *ngIf="errorMessage">
+        {{ errorMessage }}
+      </p>
+
+    </form>
+  </div>
+</div>

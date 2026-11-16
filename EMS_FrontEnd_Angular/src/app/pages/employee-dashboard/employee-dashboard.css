@@ -1,0 +1,231 @@
+/* Container */
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f9f9f9;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Heading */
+h2 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+  font-size: 28px;
+}
+
+/* Form Inputs */
+form input {
+  display: block;
+  width: calc(100% - 20px);
+  margin-bottom: 15px;
+  padding: 10px 12px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+form input:focus {
+  border-color: #4CAF50;
+  box-shadow: 0 0 8px rgba(76, 175, 80, 0.3);
+  outline: none;
+}
+
+/* Buttons */
+form button {
+  padding: 10px 18px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+form button[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+}
+
+form button[type="submit"]:hover:not(:disabled) {
+  background-color: #45a049;
+  transform: translateY(-2px);
+}
+
+form button[type="submit"]:disabled {
+  background-color: #a5d6a7;
+  cursor: not-allowed;
+}
+
+form button[type="button"] {
+  background-color: #f44336;
+  color: white;
+}
+
+form button[type="button"]:hover {
+  background-color: #e53935;
+  transform: translateY(-2px);
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 25px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+thead {
+  background-color: #4CAF50;
+  color: white;
+}
+
+thead th {
+  padding: 12px 10px;
+  text-align: left;
+}
+
+tbody td {
+  padding: 12px 10px;
+  border-bottom: 1px solid #ddd;
+  transition: background 0.3s ease;
+}
+
+tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+tbody tr td button {
+  padding: 6px 12px;
+  margin-right: 5px;
+  border-radius: 6px;
+  font-size: 14px;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+tbody tr td button:first-child {
+  background-color: #2196F3;
+  color: white;
+  border: none;
+}
+
+tbody tr td button:first-child:hover {
+  background-color: #1976D2;
+  transform: translateY(-1px);
+}
+
+tbody tr td button:last-child {
+  background-color: #f44336;
+  color: white;
+  border: none;
+}
+
+tbody tr td button:last-child:hover {
+  background-color: #e53935;
+  transform: translateY(-1px);
+}
+
+/* No Data Row */
+tbody tr td[colspan] {
+  text-align: center;
+  font-style: italic;
+  color: #888;
+  padding: 20px 0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  form input {
+    width: 100%;
+  }
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  thead tr {
+    display: none;
+  }
+  tbody tr {
+    margin-bottom: 15px;
+    border-bottom: 2px solid #ddd;
+    padding: 10px;
+  }
+  tbody td {
+    text-align: right;
+    padding-left: 50%;
+    position: relative;
+  }
+  tbody td::before {
+    content: attr(data-label);
+    position: absolute;
+    left: 10px;
+    width: calc(50% - 20px);
+    text-align: left;
+    font-weight: bold;
+  }
+  .logout-btn {
+  position: fixed;       /* Browser window ke top-right */
+  top: 20px;             /* distance from top*/
+  right: 20px;           /*distance from right*/ 
+  background-color: #ff9800;
+  color: white;
+  padding: 12px 24px;    /* bada size */
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 25px;       /* bada text */
+  font-weight: bold;
+  z-index: 1000;         /* hamesha upar dikhe */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+
+.logout-btn:hover {
+  background-color: #fb8c00;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
+
+.pagination-container {
+  display: flex;                /* Flex container banaya */
+  justify-content: center;      /* Center horizontally */
+  align-items: center;          /* Center vertically if needed */
+  margin-top: 20px;             /* Table ke neeche gap */
+  width: 100%;                  /* Full width */
+}
+
+.pagination {
+  display:inline-flex;                /* Buttons in a row */
+  justify-content: center;      /* Row ke buttons center me */
+  align-items: center;          /* Vertical alignment */
+  gap: 8px;                     /* Buttons ke beech space */
+}
+
+.pagination button {
+  padding: 6px 12px;
+  border: 1px solid #007bff;
+  background-color: white;
+  color: #007bff;
+  cursor: pointer;
+  border-radius: 4px;
+  min-width: 40px;
+  text-align: center;
+}
+
+.pagination button.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+}
